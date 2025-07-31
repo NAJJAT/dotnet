@@ -1,0 +1,15 @@
+C:\Users\ooo77\source\repos\vraag2\vraag2\bin\Debug\net8.0\vraag2.exe
+C:\Users\ooo77\source\repos\vraag2\vraag2\bin\Debug\net8.0\vraag2.deps.json
+C:\Users\ooo77\source\repos\vraag2\vraag2\bin\Debug\net8.0\vraag2.runtimeconfig.json
+C:\Users\ooo77\source\repos\vraag2\vraag2\bin\Debug\net8.0\vraag2.dll
+C:\Users\ooo77\source\repos\vraag2\vraag2\bin\Debug\net8.0\vraag2.pdb
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\vraag2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\vraag2.AssemblyInfoInputs.cache
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\vraag2.AssemblyInfo.cs
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\vraag2.csproj.CoreCompileInputs.cache
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\vraag2.sourcelink.json
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\vraag2.dll
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\refint\vraag2.dll
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\vraag2.pdb
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\vraag2.genruntimeconfig.cache
+C:\Users\ooo77\source\repos\vraag2\vraag2\obj\Debug\net8.0\ref\vraag2.dll

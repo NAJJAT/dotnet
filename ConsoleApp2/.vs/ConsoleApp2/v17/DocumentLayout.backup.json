@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{662621E5-23C5-4E03-AC41-C78184C37016}|ConsoleApp2\\vraag1.csproj|c:\\users\\ooo77\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662621E5-23C5-4E03-AC41-C78184C37016}|ConsoleApp2\\vraag1.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ooo77\\source\\repos\\consoleapp2\\classlibrary1\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ooo77\\source\\repos\\consoleapp2\\classlibrary1\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ooo77\\source\\repos\\consoleapp2\\classlibrary1\\ipersistable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\ipersistable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ooo77\\source\\repos\\consoleapp2\\classlibrary1\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ooo77\\source\\repos\\consoleapp2\\classlibrary1\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ooo77\\source\\repos\\consoleapp2\\classlibrary1\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ooo77\\source\\repos\\consoleapp2\\classlibrary1\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\ooo77\\source\\repos\\consoleapp2\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BF2844-2FEF-454A-B9F1-0064405FE157}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersistable.cs",
+              "DocumentMoniker": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\IPersistable.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\IPersistable.cs",
+              "ToolTip": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\IPersistable.cs",
+              "RelativeToolTip": "ClassLibrary1\\IPersistable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:43:43.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\Interface1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Interface1.cs",
+              "ToolTip": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\Interface1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Interface1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:46:37.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:34:42.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\Document.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Document.cs",
+              "ToolTip": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\Document.cs",
+              "RelativeToolTip": "ClassLibrary1\\Document.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:38:59.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStorable.cs",
+              "DocumentMoniker": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\IStorable.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\IStorable.cs",
+              "ToolTip": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\IStorable.cs",
+              "RelativeToolTip": "ClassLibrary1\\IStorable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:45:57.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReadable.cs",
+              "DocumentMoniker": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\IReadable.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\IReadable.cs",
+              "ToolTip": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\IReadable.cs",
+              "RelativeToolTip": "ClassLibrary1\\IReadable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:47:42.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\EntityBase.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\EntityBase.cs",
+              "RelativeToolTip": "ClassLibrary1\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:36:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\Author.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Author.cs",
+              "ToolTip": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\Author.cs",
+              "RelativeToolTip": "ClassLibrary1\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:37:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\ooo77\\source\\repos\\ConsoleApp2\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:35:22.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
